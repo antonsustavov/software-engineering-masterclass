@@ -1,0 +1,12 @@
+rootProject.name = "software-engineering-masterclass"
+include("fundamentals:data-structures")
+include("fundamentals:algorithms")
+include("systems:in-memory:kv-store")
+include("systems:concurrency")
+include("systems:storage")
+include("systems:networking")
+include("systems:distributed")
+include("systems:messaging")
+include("architecture:system-design")
+include("engineering:performance")
+include("engineering:reliability")
